@@ -40,21 +40,21 @@ Ping tests: Devices within the same VLAN communicate freely. Cross-VLAN communic
 
 ### Screenshots
 
-VLAN Configuration
+### VLAN Configuration
 
 ![ip_route_table](https://github.com/user-attachments/assets/444d3469-3d6f-4083-8e45-b70275bd53cd)
 
-Router Subinterfaces
+### Router Subinterfaces
 
 ![vlan_config_switch_1](https://github.com/user-attachments/assets/a880d0d7-3c69-4d20-a1ed-b0457d1de450)
 
 ![vlan_config_switch_2](https://github.com/user-attachments/assets/96b257b5-eb61-4e62-b376-501243d82097)
 
-Network Topology
+### Network Topology
 
 ![network_topology](https://github.com/user-attachments/assets/48818aba-56c1-4335-a457-f83e441ed667)
 
-Ping Results
+### Ping Results
 
 ![ping_test](https://github.com/user-attachments/assets/bacb794c-043d-4b8d-b6c2-6a13c70d116e)
 
